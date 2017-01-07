@@ -1,6 +1,9 @@
 */
 !.gitignore
-!Driver/*
+!Driver/
+!Driver/inc/
+!Driver/sys/
+!Driver/exe/
 !PFirewall/
 !.sln
 !.inf
