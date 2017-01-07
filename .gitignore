@@ -2,6 +2,7 @@
 !.gitignore
 !Driver/
 !PFirewall/
+!ImageFolder/
 !.sln
 !.inf
 !README.md
