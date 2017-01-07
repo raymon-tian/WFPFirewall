@@ -1,8 +1,7 @@
 */
 !.gitignore
-!Driver/
+!Driver/*
 !PFirewall/
-!ImageFolder/
 !.sln
 !.inf
 !README.md
