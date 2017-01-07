@@ -5,6 +5,7 @@
 !Driver/sys/
 !Driver/exe/
 !PFirewall/
+!PFirewall/res
 !.sln
 !.inf
 !README.md
