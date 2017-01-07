@@ -1,9 +1,7 @@
 */
 !.gitignore
-!Driver/*.h
-!PFirewall/*.h
-!Driver/*.cpp
-!PFirewall/*.cpp
+!Driver/
+!PFirewall/
 !.sln
 !.inf
 !README.md
