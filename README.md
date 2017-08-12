@@ -17,4 +17,3 @@
 ![Image text](https://github.com/raymon-tian/WFPFirewall/blob/master/ImageFolder/filter.png)</br>
 ![Image text](https://github.com/raymon-tian/WFPFirewall/blob/master/ImageFolder/r1.png)</br>
 ![Image text](https://github.com/raymon-tian/WFPFirewall/blob/master/ImageFolder/r2.png)</br>
-#欢迎大家fork，感觉还凑合的话加个star~~~
