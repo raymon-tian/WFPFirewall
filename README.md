@@ -12,8 +12,8 @@
 
 # 程序主界面
 ![Image text](https://github.com/raymon-tian/WFPFirewall/blob/master/ImageFolder/main.png)
-#过滤功能演示
-过滤出防火墙的源IP分别为 [180.97.33.108](http://180.97.33.108/) 和 [115.159.241.25](http://115.159.241.95/)的IP数据包和TCP数据包</br>
+# 过滤功能演示
+* 过滤出防火墙的源IP分别为 [180.97.33.108](http://180.97.33.108/) 和 [115.159.241.25](http://115.159.241.95/)的IP数据包和TCP数据包</br>
 ![Image text](https://github.com/raymon-tian/WFPFirewall/blob/master/ImageFolder/filter.png)</br>
 ![Image text](https://github.com/raymon-tian/WFPFirewall/blob/master/ImageFolder/r1.png)</br>
 ![Image text](https://github.com/raymon-tian/WFPFirewall/blob/master/ImageFolder/r2.png)</br>
